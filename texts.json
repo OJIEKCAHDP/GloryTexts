@@ -11,7 +11,8 @@
 					"telegram": "Подтвердите вход через §bTelegram!",
 					"vk": "Подтвердите вход через §bVk!",
 					"discord:": "Подтвердите вход через §bDiscord!"
-				}
+				},
+				"successConnected2FA": "Вы привязали 2ФА"
 			},
 			"bots": {
 				"discord": {

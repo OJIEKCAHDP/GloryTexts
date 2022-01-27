@@ -12,7 +12,13 @@
 					"vk": "Подтвердите вход через §bVk!",
 					"discord:": "Подтвердите вход через §bDiscord!"
 				},
-				"successConnected2FA": "Вы привязали 2ФА"
+				"successConnected2FA": "Вы привязали 2ФА",
+				"clickable": {
+					"telegram": {
+						"message": "Нажмите на сообщение и перейдите по ссылке, чтобы привязать",
+						"hoverText": "Нажми сюда"
+					}
+				}
 			},
 			"bots": {
 				"discord": {

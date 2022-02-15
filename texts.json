@@ -41,7 +41,7 @@
 				}
 			},
 			"inventoryNames": {
-				"registerPassword": "§f\uF809\uF804\uF806§8Придумайте пароль",
+				"registerPassword": "§f\uF808\uF806\uA800§8Придумайте пароль",
 				"registerPasswordWrong": "§f\uF808\uA800\uF809\uF808\uF806§4Не используйте пробелы",
 				"registerPasswordWrongLength": "§f\uF808\uA800\uF809\uF808\uF806§4Минимум 6 символов",
 				"registerPasswordRepeat": "§f\uF808\uA800\uF809\uF808\uF806§8Повторите пароль",

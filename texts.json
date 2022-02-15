@@ -41,12 +41,12 @@
 				}
 			},
 			"inventoryNames": {
-				"registerPassword": "§8Придумайте пароль",
-				"registerPasswordWrong": "§4Не используйте пробелы",
-				"registerPasswordWrongLength": "§4Минимум 6 символов",
-				"registerPasswordRepeat": "§8Повторите пароль",
-				"registerPasswordMismatch": "§4Пароли не совпадают",
-				"registerDone": "§8Регистрация прошла успешно!",
+				"registerPassword": "§f\uF808\uA800\uF809\uF808\uF806§8Придумайте пароль",
+				"registerPasswordWrong": "§f\uF808\uA800\uF809\uF808\uF806§4Не используйте пробелы",
+				"registerPasswordWrongLength": "§f\uF808\uA800\uF809\uF808\uF806§4Минимум 6 символов",
+				"registerPasswordRepeat": "§f\uF808\uA800\uF809\uF808\uF806§8Повторите пароль",
+				"registerPasswordMismatch": "§f\uF808\uA800\uF809\uF808\uF806§4Пароли не совпадают",
+				"registerDone": "§f\uF808\uA800\uF809\uF808\uF806§8Регистрация прошла успешно!",
 				"loginPassword": "%player",
 				"loginPasswordWrong": "§4Попыток осталось: %attempts",
 				"twoFactorAuthMain": "Выберите: ",
